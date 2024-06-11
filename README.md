@@ -1,1 +1,3 @@
+
 # Etch-a-Sketch
+This project aims to demonstrate my skills in HTMl, CSS & Javascript. In addition, it further cements my DOM manipulation skills. The project involves the creation of a new grid once you click a button on a webpage. A prompt displays where you choose the number of grid squares between 1-100. Hover effect is employed where the grid squares change color once you move your cursor over the squares.
